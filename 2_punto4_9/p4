@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="taller_frontend/css/style.css">
+    <title>Respuesta 4-8</title>
+</head>
+<body>
+    <!--Punto 4-->
+    <h1>Punto 4</h1>
+    <h2 class="p4_azul">soy azul</h2>
+    <h2 class="p4_rojo">soy rojo</h2>
+
+<h3 id="nombre" >Tatiana Díaz<h3>
+</body>
+</html>
